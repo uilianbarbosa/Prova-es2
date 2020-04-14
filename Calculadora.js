@@ -8,9 +8,10 @@ function sub(sub1, sub2) {
 }
 console.log(sub(4, 2));
 
-function mult() {
-  //TODO: Implementar multiplicação
+function mult(m1, m2) {
+  return m1 * m2;
 }
+console.log(mult(4,5));
 
 function div() {
   //TODO: Implementar divisão
