@@ -13,6 +13,7 @@ function mult(m1, m2) {
 }
 console.log(mult(4,5));
 
-function div() {
-  //TODO: Implementar divisão
+function div(d1, d2) {
+  return d1 / d2;
 }
+console.log(div(4, 2));
