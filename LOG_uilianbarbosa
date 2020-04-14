@@ -1,0 +1,172 @@
+    1  mkdir ~/ Git_ Aula1
+    2  mkdir ~/Git_ Aula1
+    3  mkdir ~/Git_Aula1
+    4  cd ~/Git_Aula1/
+    5  code .
+    6  code .git_aula1
+    7  git config --global user.nome "Uilian Barbosa"
+    8  git config --global user.email "uilianbfurtado@hotmail.com"
+    9  git status
+   10  git init
+   11  git status
+   12  git add
+   13  git add .
+   14  histor | grep"
+   15  history | grep "add"
+   16  git commit
+   17  "rfrfv" -m
+   18  clear
+   19  clean
+   20  exit
+   21  clean
+   22  ls
+   23  git status
+   24  git init
+   25  -git_aula1
+   26  cd ..
+   27  cd ~/git_aula1
+   28  echo "node config"
+   29  echo "node.config" >> .gitignore
+   30  cat git1.js
+   31  gitk
+   32  gitk
+   33  cat git1.js
+   34  git diff
+   35  git log
+   36  git log oneline
+   37  git log --oneline
+   38  git status
+   39  gitk
+   40  mkdir ~/Git_Aula1
+   41  cd ~/Git_Aula1/
+   42  git config --list
+   43  git --version
+   44  pwd
+   45  cd ~/git/git_aula1
+   46  pwd
+   47  ls
+   48  git init
+   49  git_aula1 git unit
+   50  clear
+   51  cd ~/git_aula1
+   52  mkdir -p ~/git/es2
+   53  cd ~/git/es2
+   54  ls
+   55  ls -la
+   56  git init
+   57  ls
+   58  ls -la
+   59  cd..
+   60  cd .git
+   61  cd ..
+   62  git status
+   63  touch file.txt
+   64  git status
+   65  git add file.txt 
+   66  git status
+   67  git help edd
+   68  git help add
+   69  git commit -m "Cria arquivo vazio de testes"
+   70  git status
+   71  touch file2.txt
+   72  touch file3.txt
+   73  git status
+   74  git add
+   75  git status
+   76  git add .
+   77  git status
+   78   git config --list
+   79  git --version
+   80  git config --list
+   81  git --version
+   82  ls
+   83  ls -la
+   84  git status
+   85  git add .
+   86  git status
+   87  git restore --staged file2.txt
+   88  git status
+   89  git restore --staged file3.txt
+   90  git status
+   91  git help add
+   92  git help status
+   93  git help commit
+   94  git commit -m "cria arquivo vazio de testes"
+   95   git status
+   96  git add .
+   97  git status
+   98  git commit
+   99  npm init
+  100  node index.js
+  101  node index.js
+  102  node app.js
+  103  node exe3.js
+  104  node exp.js
+  105  node app.js
+  106  node index.js
+  107  node index.js
+  108  cd es3
+  109  node exp.js
+  110  dir
+  111  cd..
+  112  cd git_aula 1
+  113  cd git_aula1
+  114  git1
+  115  git git_aula1
+  116  cd..
+  117  cd git
+  118  dir
+  119  git
+  120  git config --list
+  121  git --version
+  122  pwb
+  123  git pwd
+  124  cd git
+  125  cd es2
+  126  ls
+  127  ls -la
+  128  git status
+  129  clean
+  130  git clean
+  131  cls
+  132  clear
+  133  ls
+  134  ls -la
+  135  cd git
+  136  git return
+  137  clear
+  138  cd git
+  139  cd es2
+  140  git ..
+  141  git .
+  142  mkdir ~/es2-2m
+  143  cd ~/es2-2m
+  144  code .
+  145  code .
+  146  code .
+  147  code .
+  148  cat ~/.ssh/id_rsa.pub
+  149  cat ~/.ssh/id_rsa.pub
+  150  history
+  151  git status
+  152  history
+  153  git init
+  154  git checkout -b feature/sum
+  155  git add .
+  156  gitmoji -v
+  157  git commit
+  158  gitmoji -i
+  159  git commit
+  160  git push origin feature/sum
+  161  git checkout master
+  162  git pull
+  163  git checkout -b feature/sub
+  164  git add .
+  165  git commit
+  166  git push origin feature/sub
+  167  git checkout master
+  168  git pull
+  169  git pull
+  170  git checkout -b feature/sub
+  171  git pull
+  172  history > LOG_uilianbarbosa
