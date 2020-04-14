@@ -1,0 +1,81 @@
+  440  git clone git@github.com:uilianbarbosa/Prova-ES2.git
+  441  git remote -v
+  442  git clone git@github.com:uilianbarbosa/Prova-ES2.git
+  443  git init
+  444  git status
+  445  history
+  446  clone git@github.com:uilianbarbosa/Prova-ES2.git
+  447  git clone git@github.com:uilianbarbosa/Prova-ES2.git
+  448  git init
+  449  cd Prova-ES2/
+  450  git checkout -b feature/mult
+  451  ls
+  452  git status
+  453  git add .
+  454  git status
+  455  gitmoji -v
+  456  gitmoji -i
+  457  git commit
+  458  git status
+  459  git checkout master
+  460  git checkout -b feature/div
+  461  git add .
+  462  git status
+  463  git commit
+  464  git remote -v
+  465  git push origin feature/div
+  466  git remote -v
+  467  git push origin feature/div
+  468  git remote show origin
+  469  git pull
+  470  git push origin feature/div
+  471  git push origin feature/div
+  472  git checkout feature/mult
+  473  git status
+  474  git push origin feature/mult
+  475  git checkout feature/div 
+  476  ls
+  477  cat Calculadora.js 
+  478  git checkout master
+  479  git checkout master
+  480  git checkout
+  481  git checkout master
+  482  git checkout
+  483  git checkout master
+  484  git checkout Calculadora.js
+  485  git status
+  486  git checkout master
+  487  git checkout feature/div
+  488  git add .
+  489  git status
+  490  git commit
+  491  git commit
+  492  git push origin feature/div
+  493  git ckeckout feature/mult
+  494  git checkout feature/mult
+  495  git add .
+  496  git status
+  497  git commit
+  498  git push origin feature/mult
+  499  git clone https://github.com/adobe/aem-guides-wknd.git
+  500  git init
+  501  git clone git@github.com:uilianbarbosa/Prova-es2.git
+  502  ls
+  503  cd Prova-es2/
+  504  git init
+  505  git pull
+  506  git checkout -b feature/mult
+  507  git add .
+  508  gitmoji -i
+  509  git commit
+  510  git push origin feature/mult
+  511  git checkout master
+  512  git pull
+  513  git checkout -b feature/div
+  514  git add .
+  515  git commit
+  516  git push origin feature/div
+  517  git checkout master
+  518  git pull
+  519  git pull
+  520  history > LOG_ThaisRK
